@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+    .wheel-box{
+        background-color: rgb(48, 175, 165);
+        width: 40%;
+        height: 60%;
+    }
+   
+}
